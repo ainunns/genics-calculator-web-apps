@@ -1,12 +1,12 @@
 {
   "name": "mentoring-3",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple calculator using tailwindcss and math expression evaluator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ainun Nadhifah Syamsiyah",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.3.2"
